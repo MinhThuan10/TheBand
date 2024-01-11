@@ -1,0 +1,12 @@
+1. Phân tích
+    1.Header
+    2.Slider (Chúa hình ảnh nổi bật)
+    3.Content
+        3.1 About
+        3.2 Tour
+        3.3 Contact
+        3.4 Images
+    4.Footer
+
+2. Dựng base (xây móng)
+
